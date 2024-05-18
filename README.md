@@ -1,3 +1,4 @@
+![logo](https://github.com/Soham0902/Soham0902/blob/main/Github%20banner_Soham.png)
 <h1 align="center">Hi 👋, I'm Soham Bhirange</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
