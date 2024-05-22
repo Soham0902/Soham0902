@@ -1,7 +1,7 @@
 ![logo](https://github.com/Soham0902/Soham0902/blob/main/Github%20banner_Soham.png)
 <h1 align="center">Hi 👋, I'm Soham Bhirange</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soham0902&label=Profile%20views&color=0e75b6&style=flat" alt="soham0902" /> </p>
 - 🔭 I’m currently working on [EasyReaches](https://github.com/teamasap2002/EasyReache)
 
 - 🌱 I’m currently learning **React JS, Node Js and Express JS**
