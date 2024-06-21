@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React JS, Node Js and Express JS**
 
-- 👨‍💻 All of my projects are available at [https://soham-portfolio.onrender.com](https://soham-portfolio.onrender.com)
+- 👨‍💻 All of my projects are available at [https://soham0902.github.io/Portfolio/](https://soham0902.github.io/Portfolio/))
 
 - 💬 Ask me about **HTML, CSS, JS, PHP, SQL, JAVA, C++,Flutter**
 
